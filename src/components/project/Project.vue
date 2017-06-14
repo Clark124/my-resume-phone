@@ -43,7 +43,7 @@ export default {
 <style scoped lang="scss">
 .v_project {
   background: url('./bg-project.jpg') no-repeat center top;
-  background-size: cover;
+  background-size: 100% 100%;
   background-color: #fff;
 }
 
