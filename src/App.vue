@@ -83,6 +83,6 @@ export default {
   position: fixed;
   left: 50%;
   top: 40%;
-  transform: translate(-50%,-50%)
+  transform: translate(-35%,-50%);
 }
 </style>

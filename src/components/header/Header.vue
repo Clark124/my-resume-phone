@@ -146,7 +146,11 @@ export default {
                 font-family: 'Overlock', cursive;
                 margin-right: 20px;
                 width: 60px;
+                @media only screen and (max-width: 400px) {
+                    margin-right: 10px;
+                }
             }
+            
         }
     }
 }
