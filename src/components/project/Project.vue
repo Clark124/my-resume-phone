@@ -4,13 +4,13 @@
       <v-Title :title="title" :tip="tip"></v-Title>
       <ul>
         <li>
+          <router-link to="/project/react">React</router-link>
+        </li>
+        <li>
           <router-link to="/project/vue" >Vue</router-link>
         </li>
         <li>
           <router-link to="/project/node">Node</router-link>
-        </li>
-        <li>
-          <router-link to="/project/react">React</router-link>
         </li>
         <li>
           <router-link to="/project/bootstrap">Bootstrap</router-link>
